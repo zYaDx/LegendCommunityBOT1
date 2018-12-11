@@ -1,0 +1,2 @@
+node LegendCommunityBOT.js
+paused
